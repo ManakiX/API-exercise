@@ -11,6 +11,12 @@
                 "storage": "2TB",
                 "userName": "Jeff",
                 "surname": " Riccardo"
+            },
+            {
+                "brand": "hp",
+                "storage": "1TB",
+                "userName": "John",
+                "surname": "Bruce" 
             }
     ]
 }
