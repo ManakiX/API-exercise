@@ -1,0 +1,17 @@
+{
+    "laptop":   [
+            {
+                "brand": "Lenovo",
+                "storage": "1TB",
+                "userName": "Archie",
+                "surname": "Sogeyana"
+            },
+            {
+                "brand": "Razor",
+                "storage": "2TB",
+                "userName": "Jeff",
+                "surname": " Riccardo"
+            }
+    ]
+}
+
